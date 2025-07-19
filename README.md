@@ -25,5 +25,5 @@ InsureGuard is a mobile application designed to simplify insurance policy manage
 ### Steps to Run
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/InsureGuard.git
+git clone https://github.com/kemad97/InsureGuard.git
 cd InsureGuard
