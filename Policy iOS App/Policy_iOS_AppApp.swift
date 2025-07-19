@@ -11,7 +11,8 @@ import SwiftUI
 struct Policy_iOS_AppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //PolicyListView()
+            MainTabView()
         }
     }
 }
