@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		E183315C2E2C127500ED9B48 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E183315B2E2C127500ED9B48 /* Assets.xcassets */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		E18331542E2C127200ED9B48 /* Policy iOS App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Policy iOS App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E183315B2E2C127500ED9B48 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		E183314B2E2C127200ED9B48 = {
 			isa = PBXGroup;
 			children = (
+				E183315B2E2C127500ED9B48 /* Assets.xcassets */,
 				E18331562E2C127200ED9B48 /* Policy iOS App */,
 				E18331552E2C127200ED9B48 /* Products */,
 			);
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E183315C2E2C127500ED9B48 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
